@@ -1,0 +1,5 @@
+{
+  "name": "Nebula Blog",
+  "description": "A next-generation blog engine featuring a markdown editor, dark-mode aesthetic, and Gemini-powered AI writing assistance.",
+  "requestFramePermissions": []
+}
